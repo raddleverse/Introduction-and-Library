@@ -13,7 +13,7 @@ To recommend new studies and results to add to this library, please either creat
 ### Results using the Mimi version of BRICK
 
 1. Wong T.E., L. Rennels, F. Errickson, V. Srikrishnan, A. Bakker, K. Keller, D. Anthoff, (2022). MimiBRICK.jl: A Julia package for the BRICK model for sea-level change in the Mimi integrated modeling framework. Journal of Open Source Software, 7(76), 4556, https://doi.org/10.21105/joss.04556
-1. Wong T.E., L. Rennels, F. Errickson, V. Srikrishnan, K. Keller, D. Anthoff, (2022). Sensitivity of Coastal Adaptation Costs and Decisions to Sea Level and Socioeconomic Uncertainties. AGU Fall Meeting 2022, held in Chicago, IL, 12-16 December 2022, id. GC42M-0881.
+1. Wong T.E., L. Rennels, F. Errickson, V. Srikrishnan, K. Keller, D. Anthoff, (2022). Sensitivity of Coastal Adaptation Costs and Decisions to Sea Level and Socioeconomic Uncertainties. AGU Fall Meeting 2022, held in Chicago, IL, 12-16 December 2022, id. GC42M-0881. ([Link](https://github.com/raddleverse/Introduction-and-Library/blob/main/Wong_AGU_2022_small.pdf))
 
 ### Results using previous versions of BRICK
 
